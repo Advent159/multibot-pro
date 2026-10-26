@@ -13,38 +13,38 @@
   <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
-**Multi-purpose Discord bot dengan AI integration, mini games, economy system, dan fun commands.**
+**Multi-purpose Discord bot with AI integration, mini games, economy system, dan fun commands.**
 
 </div>
 
 ---
 
-## 📖 Tentang Project
+## 📖 About the Project
 
-**MultiBot Pro** adalah bot Discord **multi-fungsi** yang menggabungkan:
-- 🎮 **8 Mini Games** — roll, rps, slots, trivia, dll
-- 💰 **Economy System** — points, daily reward, leaderboard
-- 🎉 **Fun Commands** — jokes, quotes, memes, ship
-- 🤖 **AI Integration** — chat dengan Llama 3.3 via Groq
-- 👤 **User Awareness** — AI kenal nama, server & role user
+**MultiBot Pro** is a **multi-functional** Discord bot that combines:
+- 🎮 **8 Mini-Games** — roll, RPS, slots, trivia, etc.
+- 💰 **Economy System** — points, daily rewards, leaderboards
+- 🎉 **Fun Commands** — jokes, quotes, memes, sending items
+- 🤖 **AI Integration** — chat with Llama 3.3 via Groq
+- 👤 **User Awareness** — AI recognizes user names, servers, and roles
 
 ---
 
-## ✨ Fitur Utama
+## ✨ Key Features
 
 ### 🤖 AI Integration (Powered by Groq)
-- **`!ai`** — Chat dengan AI, punya **memory** (ingat percakapan)
-- **`!code`** — Bantuan coding dari AI
-- **`!translate`** — Translate ke berbagai bahasa
-- **`!summarize`** — Ringkas text panjang
-- **`!roleplay`** — AI jadi karakter apapun (pirate, guru, Prabowo 😄)
-- **`!story`** — AI bikin cerita kreatif
-- **`!quizai`** — AI bikin quiz otomatis
-- **`!imagine`** — AI bikin prompt gambar
-- **`!whoami`** — Lihat info user yang AI tahu
-- **`!clearai`** — Reset memory AI
+- **`!ai`** — Chat with an AI that has **memory** (remembers past conversations)
+- **`!code`** — Get coding assistance from the AI
+- **`!translate`** — Translate text into various languages
+- **`!summarize`** — Summarize long texts
+- **`!roleplay`** — Have the AI ​​take on any persona (pirate, teacher, Prabowo 😄, etc.)
+- **`!story`** — Generate creative stories with the AI
+- **`!quizai`** — Automatically generate quizzes using the AI
+- **`!imagine`** — Quickly generate images with the AI
+- **`!whoami`** — View the information the AI ​​knows about you
+- **`!clearai`** — Reset the AI's memory
 
-### 🎮 Mini Games (8 Games)
+### 🎮 Mini-Games (8 Games)
 `!roll` `!coinflip` `!rps` `!8ball` `!slots` `!trivia` `!d20` `!guess`
 
 ### 💰 Economy System
@@ -53,20 +53,19 @@
 ### 🎉 Fun Commands
 `!joke` `!quote` `!fact` `!meme` `!ship`
 
-### 🔧 Basic Commands
+### 🔧 Commands Basic
 `!ping` `!hello` `!info` `!help`
 
 ---
 
-## 🚀 Instalasi
+## 🚀 Installation
 
 ### Prerequisites
-- Python 3.10 atau lebih baru (**recommended: 3.11**)
+- Python 3.10 or later (**recommended: 3.11**)
 - Discord account + server
 
-### Langkah Instalasi
+### Installation Steps
 
-**1. Clone Repository**
-```bash
-git clone https://github.com/Advent159/multibot-pro.git
+**1. Clone the repository**
+```bashgit clone https://github.com/Advent159/multibot-pro.git
 cd multibot-pro
